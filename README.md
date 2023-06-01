@@ -27,8 +27,8 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: [GitHub](https://your-solution-url.com)
-- Live Site URL: [GitHub Page](https://your-live-site-url.com)
+- Solution URL: [GitHub](https://github.com/Ikquilibrium-SG/news-homepage.git)
+- Live Site URL: [Netlify](https://news-homepage-by.netlify.app/)
 
 ## My process
 
